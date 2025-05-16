@@ -28,7 +28,7 @@ programa
 
 			i ++
 		}
-		idade = idade + idade
+		     idade = idade + idade
 			media = qtdHomens + qtdHomens
 
 			boom = idade / media
@@ -51,7 +51,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 36; 
+ * @POSICAO-CURSOR = 534; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
